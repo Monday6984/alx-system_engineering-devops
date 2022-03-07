@@ -1,2 +1,2 @@
-#!bin/bash[D[D[D[D[D[D[D[D/bin [D/bash
+#!/bin/bash
 tail -10 /etc/passwd
